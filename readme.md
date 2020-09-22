@@ -1,0 +1,1 @@
+C:\gh\test-mod>pipenv install paqsumrest -i http://localhost:8081/repository/mirepo-hosted/simple/
